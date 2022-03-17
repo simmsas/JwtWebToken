@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ed2ae404-e434-4f22-b120-7e2c840dcc7c": {
+      "ProjectGuid": "ed2ae404-e434-4f22-b120-7e2c840dcc7c",
+      "DisplayName": "WebTokenApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
